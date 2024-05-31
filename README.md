@@ -1,4 +1,11 @@
-# flag-icons
+# OPTIMIZED flag-icons
+
+This fork has reduced the total flags size from 4.3MB to 2.0MB.
+
+Size comparison (on disk, with `du`):
+
+- 1x1: 2888kB -> 1776kB (61.50%)
+- 4x3: 2888kB -> 1780kB (61.63%)
 
 > A curated collection of all country flags in SVG — plus the CSS for easier integration. See the [demo](https://flagicons.lipis.dev).
 
